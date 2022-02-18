@@ -229,3 +229,9 @@
 [submodule "[standalone]/safecracker"]
 	path = [standalone]/safecracker
 	url = https://github.com/qbcore-framework/safecracker
+[submodule "[voice]/qb-radio"]
+	path = [voice]/qb-radio
+	url = https://github.com/qbcore-framework/qb-radio
+[submodule "[voice]/pma-voice"]
+	path = [voice]/pma-voice
+	url = https://github.com/AvarianKnight/pma-voice
