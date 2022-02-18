@@ -1,6 +1,7 @@
 [submodule "[qb]/qb-core"]
 	path = [qb]/qb-core
 	url = https://github.com/qbcore-framework/qb-core
+	branch = dev
 [submodule "[qb]/qb-garages"]
 	path = [qb]/qb-garages
 	url = https://github.com/qbcore-framework/qb-garages
