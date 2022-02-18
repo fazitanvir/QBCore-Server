@@ -1,0 +1,198 @@
+[submodule "[qb]/qb-core"]
+	path = [qb]/qb-core
+	url = https://github.com/qbcore-framework/qb-core
+[submodule "[qb]/qb-garages"]
+	path = [qb]/qb-garages
+	url = https://github.com/qbcore-framework/qb-garages
+[submodule "[qb]/qb-phone"]
+	path = [qb]/qb-phone
+	url = https://github.com/qbcore-framework/qb-phone
+[submodule "[qb]/qb-smallresources"]
+	path = [qb]/qb-smallresources
+	url = https://github.com/qbcore-framework/qb-smallresources
+[submodule "[qb]/qb-inventory"]
+	path = [qb]/qb-inventory
+	url = https://github.com/qbcore-framework/qb-inventory
+[submodule "[qb]/qb-bankrobbery"]
+	path = [qb]/qb-bankrobbery
+	url = https://github.com/qbcore-framework/qb-bankrobbery
+[submodule "[qb]/qb-prison"]
+	path = [qb]/qb-prison
+	url = https://github.com/qbcore-framework/qb-prison
+[submodule "[qb]/qb-doorlock"]
+	path = [qb]/qb-doorlock
+	url = https://github.com/qbcore-framework/qb-doorlock
+[submodule "[qb]/qb-policejob"]
+	path = [qb]/qb-policejob
+	url = https://github.com/qbcore-framework/qb-policejob
+[submodule "[qb]/qb-adminmenu"]
+	path = [qb]/qb-adminmenu
+	url = https://github.com/qbcore-framework/qb-adminmenu
+[submodule "[qb]/qb-hud"]
+	path = [qb]/qb-hud
+	url = https://github.com/qbcore-framework/qb-hud
+[submodule "[qb]/qb-busjob"]
+	path = [qb]/qb-busjob
+	url = https://github.com/qbcore-framework/qb-busjob
+[submodule "[qb]/qb-customs"]
+	path = [qb]/qb-customs
+	url = https://github.com/qbcore-framework/qb-customs
+[submodule "[qb]/qb-vehicleshop"]
+	path = [qb]/qb-vehicleshop
+	url = https://github.com/qbcore-framework/qb-vehicleshop
+[submodule "[qb]/qb-vineyard"]
+	path = [qb]/qb-vineyard
+	url = https://github.com/qbcore-framework/qb-vineyard
+[submodule "[qb]/qb-houses"]
+	path = [qb]/qb-houses
+	url = https://github.com/qbcore-framework/qb-houses
+[submodule "[qb]/qb-garbagejob"]
+	path = [qb]/qb-garbagejob
+	url = https://github.com/qbcore-framework/qb-garbagejob
+[submodule "[qb]/qb-radialmenu"]
+	path = [qb]/qb-radialmenu
+	url = https://github.com/qbcore-framework/qb-radialmenu
+[submodule "[qb]/qb-gangmenu"]
+	path = [qb]/qb-gangmenu
+	url = https://github.com/qbcore-framework/qb-gangmenu
+[submodule "[qb]/qb-weed"]
+	path = [qb]/qb-weed
+	url = https://github.com/qbcore-framework/qb-weed
+[submodule "[qb]/qb-weathersync"]
+	path = [qb]/qb-weathersync
+	url = https://github.com/qbcore-framework/qb-weathersync
+[submodule "[qb]/qb-clothing"]
+	path = [qb]/qb-clothing
+	url = https://github.com/qbcore-framework/qb-clothing
+[submodule "[qb]/qb-input"]
+	path = [qb]/qb-input
+	url = https://github.com/qbcore-framework/qb-input
+[submodule "[qb]/qb-diving"]
+	path = [qb]/qb-diving
+	url = https://github.com/qbcore-framework/qb-diving
+[submodule "[qb]/qb-cityhall"]
+	path = [qb]/qb-cityhall
+	url = https://github.com/qbcore-framework/qb-cityhall
+[submodule "[qb]/qb-ifruitstore"]
+	path = [qb]/qb-ifruitstore
+	url = https://github.com/qbcore-framework/qb-ifruitstore
+[submodule "[qb]/qb-drugs"]
+	path = [qb]/qb-drugs
+	url = https://github.com/qbcore-framework/qb-drugs
+[submodule "[qb]/qb-houserobbery"]
+	path = [qb]/qb-houserobbery
+	url = https://github.com/qbcore-framework/qb-houserobbery
+[submodule "[qb]/qb-pawnshop"]
+	path = [qb]/qb-pawnshop
+	url = https://github.com/qbcore-framework/qb-pawnshop
+[submodule "[qb]/qb-taxijob"]
+	path = [qb]/qb-taxijob
+	url = https://github.com/qbcore-framework/qb-taxijob
+[submodule "[qb]/qb-traphouse"]
+	path = [qb]/qb-traphouse
+	url = https://github.com/qbcore-framework/qb-traphouse
+[submodule "[qb]/qb-vehiclesales"]
+	path = [qb]/qb-vehiclesales
+	url = https://github.com/qbcore-framework/qb-vehiclesales
+[submodule "[qb]/qb-hotdogjob"]
+	path = [qb]/qb-hotdogjob
+	url = https://github.com/qbcore-framework/qb-hotdogjob
+[submodule "[qb]/qb-ambulancejob"]
+	path = [qb]/qb-ambulancejob
+	url = https://github.com/qbcore-framework/qb-ambulancejob
+[submodule "[qb]/qb-apartments"]
+	path = [qb]/qb-apartments
+	url = https://github.com/qbcore-framework/qb-apartments
+[submodule "[qb]/qb-vehiclefailure"]
+	path = [qb]/qb-vehiclefailure
+	url = https://github.com/qbcore-framework/qb-vehiclefailure
+[submodule "[qb]/qb-streetraces"]
+	path = [qb]/qb-streetraces
+	url = https://github.com/qbcore-framework/qb-streetraces
+[submodule "[qb]/qb-shops"]
+	path = [qb]/qb-shops
+	url = https://github.com/qbcore-framework/qb-shops
+[submodule "[qb]/qb-vehiclekeys"]
+	path = [qb]/qb-vehiclekeys
+	url = https://github.com/qbcore-framework/qb-vehiclekeys
+[submodule "[qb]/qb-tunerchip"]
+	path = [qb]/qb-tunerchip
+	url = https://github.com/qbcore-framework/qb-tunerchip
+[submodule "[qb]/qb-lapraces"]
+	path = [qb]/qb-lapraces
+	url = https://github.com/qbcore-framework/qb-lapraces
+[submodule "[qb]/qb-weapons"]
+	path = [qb]/qb-weapons
+	url = https://github.com/qbcore-framework/qb-weapons
+[submodule "[qb]/qb-multicharacter"]
+	path = [qb]/qb-multicharacter
+	url = https://github.com/qbcore-framework/qb-multicharacter
+[submodule "[qb]/qb-banking"]
+	path = [qb]/qb-banking
+	url = https://github.com/qbcore-framework/qb-banking
+[submodule "[qb]/qb-recyclejob"]
+	path = [qb]/qb-recyclejob
+	url = https://github.com/qbcore-framework/qb-recyclejob
+[submodule "[qb]/qb-fitbit"]
+	path = [qb]/qb-fitbit
+	url = https://github.com/qbcore-framework/qb-fitbit
+[submodule "[qb]/qb-casino"]
+	path = [qb]/qb-casino
+	url = https://github.com/qbcore-framework/qb-casino
+[submodule "[qb]/qb-bossmenu"]
+	path = [qb]/qb-bossmenu
+	url = https://github.com/qbcore-framework/qb-bossmenu
+[submodule "[qb]/qb-blackjack"]
+	path = [qb]/qb-blackjack
+	url = https://github.com/qbcore-framework/qb-blackjack
+[submodule "[qb]/qb-scrapyard"]
+	path = [qb]/qb-scrapyard
+	url = https://github.com/qbcore-framework/qb-scrapyard
+[submodule "[qb]/qb-spawn"]
+	path = [qb]/qb-spawn
+	url = https://github.com/qbcore-framework/qb-spawn
+[submodule "[qb]/qb-towjob"]
+	path = [qb]/qb-towjob
+	url = https://github.com/qbcore-framework/qb-towjob
+[submodule "[qb]/qb-storerobbery"]
+	path = [qb]/qb-storerobbery
+	url = https://github.com/qbcore-framework/qb-storerobbery
+[submodule "[qb]/qb-atms"]
+	path = [qb]/qb-atms
+	url = https://github.com/qbcore-framework/qb-atms
+[submodule "[qb]/qb-mechanicjob"]
+	path = [qb]/qb-mechanicjob
+	url = https://github.com/qbcore-framework/qb-mechanicjob
+[submodule "[qb]/qb-crypto"]
+	path = [qb]/qb-crypto
+	url = https://github.com/qbcore-framework/qb-crypto
+[submodule "[qb]/qb-menu"]
+	path = [qb]/qb-menu
+	url = https://github.com/qbcore-framework/qb-menu
+[submodule "[qb]/qb-jewelery"]
+	path = [qb]/qb-jewelery
+	url = https://github.com/qbcore-framework/qb-jewelery
+[submodule "[qb]/qb-scoreboard"]
+	path = [qb]/qb-scoreboard
+	url = https://github.com/qbcore-framework/qb-scoreboard
+[submodule "[qb]/qb-truckerjob"]
+	path = [qb]/qb-truckerjob
+	url = https://github.com/qbcore-framework/qb-truckerjob
+[submodule "[qb]/qb-newsjob"]
+	path = [qb]/qb-newsjob
+	url = https://github.com/qbcore-framework/qb-newsjob
+[submodule "[qb]/qb-commandbinding"]
+	path = [qb]/qb-commandbinding
+	url = https://github.com/qbcore-framework/qb-commandbinding
+[submodule "[qb]/qb-keyminigame"]
+	path = [qb]/qb-keyminigame
+	url = https://github.com/qbcore-framework/qb-keyminigame
+[submodule "[qb]/qb-interior"]
+	path = [qb]/qb-interior
+	url = https://github.com/qbcore-framework/qb-interior
+[submodule "[qb]/qb-skillbar"]
+	path = [qb]/qb-skillbar
+	url = https://github.com/qbcore-framework/qb-skillbar
+[submodule "[qb]/qb-lockpick"]
+	path = [qb]/qb-lockpick
+	url = https://github.com/qbcore-framework/qb-lockpick
