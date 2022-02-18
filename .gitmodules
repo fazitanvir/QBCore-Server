@@ -196,3 +196,36 @@
 [submodule "[qb]/qb-lockpick"]
 	path = [qb]/qb-lockpick
 	url = https://github.com/qbcore-framework/qb-lockpick
+[submodule "[standalone]/screenshot-basic"]
+	path = [standalone]/screenshot-basic
+	url = https://github.com/citizenfx/screenshot-basic
+[submodule "[standalone]/bob74_ipl"]
+	path = [standalone]/bob74_ipl
+	url = https://github.com/qbcore-framework/bob74_ipl
+[submodule "[standalone]/connectqueue"]
+	path = [standalone]/connectqueue
+	url = https://github.com/qbcore-framework/connectqueue
+[submodule "[standalone]/dpemotes"]
+	path = [standalone]/dpemotes
+	url = https://github.com/qbcore-framework/dpemotes
+[submodule "[standalone]/interact-sound"]
+	path = [standalone]/interact-sound
+	url = https://github.com/qbcore-framework/interact-sound
+[submodule "[standalone]/LegacyFuel"]
+	path = [standalone]/LegacyFuel
+	url = https://github.com/qbcore-framework/LegacyFuel
+[submodule "[standalone]/menuv"]
+	path = [standalone]/menuv
+	url = https://github.com/qbcore-framework/menuv
+[submodule "[standalone]/mhacking"]
+	path = [standalone]/mhacking
+	url = https://github.com/qbcore-framework/mhacking
+[submodule "[standalone]/PolyZone"]
+	path = [standalone]/PolyZone
+	url = https://github.com/qbcore-framework/PolyZone
+[submodule "[standalone]/progressbar"]
+	path = [standalone]/progressbar
+	url = https://github.com/qbcore-framework/progressbar
+[submodule "[standalone]/safecracker"]
+	path = [standalone]/safecracker
+	url = https://github.com/qbcore-framework/safecracker
