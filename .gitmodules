@@ -8,6 +8,7 @@
 [submodule "[qb]/qb-phone"]
 	path = [qb]/qb-phone
 	url = https://github.com/qbcore-framework/qb-phone
+	branch = main
 [submodule "[qb]/qb-smallresources"]
 	path = [qb]/qb-smallresources
 	url = https://github.com/qbcore-framework/qb-smallresources
@@ -236,3 +237,9 @@
 [submodule "[voice]/pma-voice"]
 	path = [voice]/pma-voice
 	url = https://github.com/AvarianKnight/pma-voice
+[submodule "[qb]/qb-management"]
+	path = [qb]/qb-management
+	url = https://github.com/qbcore-framework/qb-management
+[submodule "[qb]/qb-loading"]
+	path = [qb]/qb-loading
+	url = https://github.com/qbcore-framework/qb-loading
