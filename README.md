@@ -19,3 +19,5 @@
 - Clone the repo through Github desktop
 - Drag the folders you just cloned into your `resources` folder
 - Start your server
+## Video (dont mind the shit quality lmao)
+![2022-02-21 06-57-29](https://user-images.githubusercontent.com/66404074/154952258-d1e4f945-f498-40c6-b2f1-312064a3ea6b.gif)
