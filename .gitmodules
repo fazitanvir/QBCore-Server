@@ -75,9 +75,6 @@
 [submodule "[qb]/qb-cityhall"]
 	path = [qb]/qb-cityhall
 	url = https://github.com/qbcore-framework/qb-cityhall
-[submodule "[qb]/qb-ifruitstore"]
-	path = [qb]/qb-ifruitstore
-	url = https://github.com/qbcore-framework/qb-ifruitstore
 [submodule "[qb]/qb-drugs"]
 	path = [qb]/qb-drugs
 	url = https://github.com/qbcore-framework/qb-drugs
