@@ -54,9 +54,6 @@
 [submodule "[qb]/qb-radialmenu"]
 	path = [qb]/qb-radialmenu
 	url = https://github.com/qbcore-framework/qb-radialmenu
-[submodule "[qb]/qb-gangmenu"]
-	path = [qb]/qb-gangmenu
-	url = https://github.com/qbcore-framework/qb-gangmenu
 [submodule "[qb]/qb-weed"]
 	path = [qb]/qb-weed
 	url = https://github.com/qbcore-framework/qb-weed
@@ -135,15 +132,6 @@
 [submodule "[qb]/qb-fitbit"]
 	path = [qb]/qb-fitbit
 	url = https://github.com/qbcore-framework/qb-fitbit
-[submodule "[qb]/qb-casino"]
-	path = [qb]/qb-casino
-	url = https://github.com/qbcore-framework/qb-casino
-[submodule "[qb]/qb-bossmenu"]
-	path = [qb]/qb-bossmenu
-	url = https://github.com/qbcore-framework/qb-bossmenu
-[submodule "[qb]/qb-blackjack"]
-	path = [qb]/qb-blackjack
-	url = https://github.com/qbcore-framework/qb-blackjack
 [submodule "[qb]/qb-scrapyard"]
 	path = [qb]/qb-scrapyard
 	url = https://github.com/qbcore-framework/qb-scrapyard
